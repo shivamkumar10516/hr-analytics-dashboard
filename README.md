@@ -74,3 +74,4 @@ streamlit run app.py
 *   **State Optimization:** Leverages Streamlit cache mechanisms (`@st.cache_data`) to prevent expensive dataset regeneration on user interactions or filter swaps.
 *   **Presentation Layer Styling:** Bypasses boilerplate component styles using isolated `st.markdown()` styling sheets to achieve a customized executive design language.
 *   **Fault-Tolerant Computations:** Core functions isolate calculation exceptions gracefully, protecting dashboard runtime from bad array inputs.
+*   kahe the na ki maro usko bacha ko ab bacha ko koi kaise mar skta hai that's stupidity 
